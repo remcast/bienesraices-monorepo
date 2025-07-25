@@ -1,0 +1,51 @@
+# Node modules
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+
+# Env files
+.env
+.env.*
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Next.js build
+.next/
+out/
+
+# Build output
+build/
+dist/
+.cache/
+turbo/
+
+# Strapi uploads
+backend/public/uploads/
+
+# Vercel
+.vercel/
+
+# VSCode
+.vscode/
+
+# TypeScript
+*.tsbuildinfo
+
+# Miscellaneous
+*.swp
+*.swo
+
+# Coverage reports
+coverage/
+
+# IDEs
+.idea/
